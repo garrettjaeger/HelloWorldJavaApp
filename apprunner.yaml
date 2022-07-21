@@ -1,5 +1,5 @@
 version: 1.0
-runtime: corretto11
+runtime: uuid2
 build:
   commands:
     build:
