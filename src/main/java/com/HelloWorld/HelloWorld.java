@@ -9,7 +9,6 @@ public class HelloWorld {
     @RequestMapping("/")
     public String index(){
         String s = System.getProperty("java.version");
-        s = "corretto11 x86";
         return s;
     }
 }
